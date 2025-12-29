@@ -77,3 +77,8 @@
 .food-item-counter img {
     width: 30px;
 }
+
+.food-item-counter p {
+    width: 30px;
+    text-align: center;
+}
